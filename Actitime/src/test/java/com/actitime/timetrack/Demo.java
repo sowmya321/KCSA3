@@ -9,6 +9,8 @@ public class Demo {
 	public void runTest()
 	{
 		Reporter.log("successfully running",true);
+		Reporter.log("successfully running",true);
+		Reporter.log("successfully running",true);
 		
 		
 	}
