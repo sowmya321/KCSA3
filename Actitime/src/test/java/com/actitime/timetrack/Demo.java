@@ -11,9 +11,9 @@ public class Demo {
 		Reporter.log("successfully running",true);
 		Reporter.log("successfully running",true);
 		Reporter.log("successfully running",true);
-		Reporter.log("successfully running",true);
+		//hi this is sowmya...
 	
-		Reporter.log("successfully running",true);
+	
 		
 		
 	}

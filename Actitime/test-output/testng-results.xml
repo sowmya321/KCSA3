@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[successfully running]]>
+    </line>
+    <line>
+      <![CDATA[successfully running]]>
+    </line>
+    <line>
+      <![CDATA[successfully running]]>
+    </line>
+    <line>
+      <![CDATA[successfully running]]>
+    </line>
+    <line>
+      <![CDATA[successfully running]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="117" started-at="2020-08-09T19:06:06 IST" finished-at="2020-08-09T19:06:06 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="117" started-at="2020-08-09T19:06:06 IST" finished-at="2020-08-09T19:06:06 IST">
+      <class name="com.actitime.timetrack.Demo">
+        <test-method status="PASS" signature="runTest()[pri:0, instance:com.actitime.timetrack.Demo@3224f60b]" name="runTest" duration-ms="23" started-at="2020-08-09T19:06:06 IST" finished-at="2020-08-09T19:06:06 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[successfully running]]>
+            </line>
+            <line>
+              <![CDATA[successfully running]]>
+            </line>
+            <line>
+              <![CDATA[successfully running]]>
+            </line>
+            <line>
+              <![CDATA[successfully running]]>
+            </line>
+            <line>
+              <![CDATA[successfully running]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runTest -->
+      </class> <!-- com.actitime.timetrack.Demo -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
