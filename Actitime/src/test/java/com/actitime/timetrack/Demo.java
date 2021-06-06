@@ -8,9 +8,9 @@ public class Demo {
 	@Test
 	public void runTest()
 	{
-		Reporter.log("successfully running",true);
-		Reporter.log("successfully running",true);
-		Reporter.log("successfully running",true);
+		Reporter.log("successfully running ",true);
+		Reporter.log("can you see me in jenkins?",true);
+
 		//hi this is sowmya...
 	
 	
