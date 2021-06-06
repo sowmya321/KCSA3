@@ -8,15 +8,8 @@ public class Demo2 {
 	@Test
 	public void runTest2()
 	{
-		Reporter.log("successfully running",true);
-		
-		
+		Reporter.log("successfully running demo2",true);
+		Reporter.log("hi this is sowmya,can you see me in jenkins",true);
 	
-	
-		
-		
-	}
-	
-	
-
+}
 }
